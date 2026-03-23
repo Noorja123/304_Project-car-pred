@@ -253,6 +253,6 @@ brand-wise pricing, prediction comparison plots, and residual analysis.
 
 # Author
 
-Vishnuraj Vishwakarma
+Noorjahan Charania
 
 Data Science Mini Project Machine Learning -- Linear Regression
